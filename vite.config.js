@@ -35,7 +35,7 @@ import path from "path";
 
 export default defineConfig(({ mode }) => {
     // Toggle between 'esbuild' (default) and 'terser' by changing this value
-    const useTerser = true;
+    const useTerser = false;
 
     return {
         plugins: [
