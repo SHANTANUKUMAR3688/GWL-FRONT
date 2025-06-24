@@ -14,7 +14,7 @@ import EmployeePage from "./routes/dashboard/EmployeePage";
 //import EditemployeePage from "./routes/dashboard/EditEmployeeProfilePage";
 import EditEmployeeProfilePage from "./routes/dashboard/EditEmployeeProfilePage";
 // manager components
-import EditManagerPage from "./routes/dashboard/Editmanagerpage";
+import EditManagerPage from "./routes/dashboard/EditManagerPage";
 import ManagerPage from "./routes/dashboard/ManagerPage";
 // admin components
 import DashboardPage from "@/routes/dashboard/page";
