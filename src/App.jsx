@@ -74,7 +74,7 @@ import SuperManager from "./routes/dashboard/SuperManager";
 import AddSuperManger from "./routes/dashboard/AddSuperManager";
 import UpdateSuperManger from "./routes/dashboard/UpdateSuperManger";
 import AdminCompanyPage from "./routes/new/AdminCompanyPage";
-import EditLowerManagerPage from "./routes/dashboard/editLowerManagerPage";
+import EditLowerManagerPage from "./routes/dashboard/EditLowerManagerPage";
 import Companyprofile from "./routes/dashboard/Companyprofile";
 import Allcustomer from "./routes/dashboard/Allcustomer";
 import Allemployee from "./routes/dashboard/Allemployee";
