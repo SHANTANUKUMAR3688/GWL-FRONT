@@ -8,9 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "host": "vite --host",
-    "build:debug": "vite build --debug",
-    "analyze": "vite build --debug && vite preview"
+    "host": "vite --host"
   },
   "dependencies": {
     "@uidotdev/usehooks": "^2.4.1",
@@ -44,7 +42,6 @@
     "postcss": "^8.4.47",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.6",
-    "rollup-plugin-visualizer": "^6.0.3",
     "tailwindcss": "^3.4.11",
     "terser": "^5.43.1",
     "vite": "^5.4.1"
